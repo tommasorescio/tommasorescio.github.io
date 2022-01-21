@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Tommaso Rescio</title>
-    <link>http://tommasorescio.com/blog/</link>
+    <link>https://tommasorescio.github.io/blog/</link>
     <description>Recent content in Blogs on Tommaso Rescio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Jan 2022 21:28:48 +0100</lastBuildDate><atom:link href="http://tommasorescio.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 21:28:48 +0100</lastBuildDate><atom:link href="https://tommasorescio.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://tommasorescio.com/blog/first/</link>
+      <link>https://tommasorescio.github.io/blog/first/</link>
       <pubDate>Mon, 03 Jan 2022 21:28:48 +0100</pubDate>
       
-      <guid>http://tommasorescio.com/blog/first/</guid>
+      <guid>https://tommasorescio.github.io/blog/first/</guid>
       <description></description>
     </item>
     
