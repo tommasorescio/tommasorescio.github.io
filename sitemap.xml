@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.tommasorescio.com/blog/</loc>
+    <loc>http://blog.tommasorescio.com/blog/</loc>
     <lastmod>2022-01-03T21:28:48+01:00</lastmod>
   </url><url>
-    <loc>https://blog.tommasorescio.com/blog/first/</loc>
+    <loc>http://blog.tommasorescio.com/blog/first/</loc>
     <lastmod>2022-01-03T21:28:48+01:00</lastmod>
   </url><url>
-    <loc>https://blog.tommasorescio.com/</loc>
+    <loc>http://blog.tommasorescio.com/</loc>
     <lastmod>2022-01-03T21:28:48+01:00</lastmod>
   </url><url>
-    <loc>https://blog.tommasorescio.com/about/</loc>
+    <loc>http://blog.tommasorescio.com/about/</loc>
   </url><url>
-    <loc>https://blog.tommasorescio.com/categories/</loc>
+    <loc>http://blog.tommasorescio.com/categories/</loc>
   </url><url>
-    <loc>https://blog.tommasorescio.com/tags/</loc>
+    <loc>http://blog.tommasorescio.com/tags/</loc>
   </url>
 </urlset>
