@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tommaso Rescio</title>
-    <link>https://tommasorescio.github.io/</link>
+    <link>http://tommasorescio.github.io/</link>
     <description>Recent content on Tommaso Rescio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Jan 2022 21:28:48 +0100</lastBuildDate><atom:link href="https://tommasorescio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 21:28:48 +0100</lastBuildDate><atom:link href="http://tommasorescio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://tommasorescio.github.io/blog/first/</link>
+      <link>http://tommasorescio.github.io/blog/first/</link>
       <pubDate>Mon, 03 Jan 2022 21:28:48 +0100</pubDate>
       
-      <guid>https://tommasorescio.github.io/blog/first/</guid>
+      <guid>http://tommasorescio.github.io/blog/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://tommasorescio.github.io/about/</link>
+      <link>http://tommasorescio.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tommasorescio.github.io/about/</guid>
+      <guid>http://tommasorescio.github.io/about/</guid>
       <description>Hi! I&amp;rsquo;m your first Markdown file in StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the file explorer on the left corner of the navigation bar.</description>
     </item>
     

@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tommasorescio.github.io/blog/</loc>
+    <loc>http://tommasorescio.github.io/blog/</loc>
     <lastmod>2022-01-03T21:28:48+01:00</lastmod>
   </url><url>
-    <loc>https://tommasorescio.github.io/blog/first/</loc>
+    <loc>http://tommasorescio.github.io/blog/first/</loc>
     <lastmod>2022-01-03T21:28:48+01:00</lastmod>
   </url><url>
-    <loc>https://tommasorescio.github.io/</loc>
+    <loc>http://tommasorescio.github.io/</loc>
     <lastmod>2022-01-03T21:28:48+01:00</lastmod>
   </url><url>
-    <loc>https://tommasorescio.github.io/about/</loc>
+    <loc>http://tommasorescio.github.io/about/</loc>
   </url><url>
-    <loc>https://tommasorescio.github.io/categories/</loc>
+    <loc>http://tommasorescio.github.io/categories/</loc>
   </url><url>
-    <loc>https://tommasorescio.github.io/tags/</loc>
+    <loc>http://tommasorescio.github.io/tags/</loc>
   </url>
 </urlset>
